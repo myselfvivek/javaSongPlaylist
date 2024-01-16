@@ -1,0 +1,1 @@
+It is simple project for learning java and oops concept. it is about making a song player in terminal without ui.
